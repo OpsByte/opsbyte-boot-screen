@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=OpsByte Technologies
+Description=OpsByte Splash Screen for Ubuntu/Mint/Debian based systems.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/opsbyte-plymouth
+ScriptFile=/usr/share/plymouth/themes/opsbyte-plymouth/opsbyte-plymouth.script
+UseFirmwareBackground=false
